@@ -36,6 +36,7 @@ Output: 0.73278
  
 
 Constraints:
-
+```
 0 <= k <= n <= 104
 1 <= maxPts <= 104
+```
